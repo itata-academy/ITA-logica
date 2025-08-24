@@ -16,15 +16,6 @@
 // // console.log("O valor soma é maior ao da multiplicacao ?: ", soma > subtracao);
 // // console.log("O valor soma é menor ao da multiplicacao ?: ", soma < subtracao);
 
-
-
-// // // Tipo de dados
-// // // String
-// // let nome = "João";
-// // // Number int ou float
-// // let altura = 1.75;
-// // // Boolean
-// // let estudante = true;
  
 // // // == e ===
 
